@@ -30,6 +30,6 @@ The two main functions of an operating system are (1) hardware abstraction and (
 
 Tanenbaum, A. S., & Bos, H. (2024). *Modern operating systems* (5th Global ed.). Pearson Educated Limited.
 
-## 🏷 Tags
+## Tags
 
 #operating-systems #mos5e
